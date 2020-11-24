@@ -40,7 +40,7 @@
     "mkdirp": "~0.5.1",
     "strip-ansi": "^4.0.0",
     "xml": "^1.0.0",
-    "snyk": "^1.420.2"
+    "snyk": "^1.425.4"
   },
   "peerDependencies": {
     "mocha": ">=2.2.5"
